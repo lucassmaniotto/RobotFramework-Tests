@@ -1,11 +1,8 @@
 
-
     Esse teste deve entrar no site do youtube, pesquisar o nome de uma música 
     e fechar o Browser quando o timer do vídeo terminar.
 
-    Para pesquisar vídeos diferentes altere as variáveis ${music_name} e ${video_duration}
-
-
+   Para pesquisar vídeos diferentes altere as variáveis ${music_name} e ${video_duration}
 
 *** Settings ***
 Library     SeleniumLibrary     # https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
